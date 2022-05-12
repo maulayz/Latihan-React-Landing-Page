@@ -1,0 +1,215 @@
+/* Navigation */
+.Nav {
+    background: #161824;
+    border-bottom: 3px solid;
+    padding-bottom: 10px;
+}
+
+.nav-text {
+    padding-top: 10px;
+}
+
+.SignIn {
+    border: 1px;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    margin-right: 20px;
+    background: #dc3545;
+    font-weight: bold;
+}
+.SignUp {
+    border: 1px;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    background: #dc3545;
+    font-weight: bold;
+}
+/* end of navitagion */
+
+
+/* Home */
+.Home {
+    height: auto;
+    padding-top: 100px;
+    background: #161824;
+    /* margin-top: -56px; */
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 26px;
+    color: #ffffff;
+}
+.desc {
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.images {
+    margin-top: -70px;
+    border: 2px solid;
+    border-radius: 0 0 0 120px;
+    padding: 5px;
+    box-shadow: 10px 10px #3567d2;
+    width: 500px;
+    margin-left: 30px;
+}
+
+span {
+    border: 2px;
+    background: #3567d2;
+    border-radius: 10px;
+}
+/* end of home */
+
+/* Benefits */
+.Keys-Benefits {
+    background: #161824;
+    color: white;
+}
+.Header {
+    padding-top: 100px;
+}
+
+.benefits {
+    margin-top: 100px;
+}
+.benefits .header {
+    font-size: 40px;
+}
+.benefits .text {
+    font-size: 20px;
+    color: #6E799C;
+    line-height: 1;
+    margin: 20px 0 20px 0;
+}
+
+.Easy-to-operate .benefits {
+    text-align: right;
+}
+.Easy-to-operate .images-easy {
+    margin: -50px 0 0 -105px;
+}
+
+.images-real {
+    margin-left: 50px;
+}
+.images-fully {
+    margin-left: 80px;
+    margin-top: -50px;
+}
+
+.Real-time-analytic {
+    margin-top: 100px;
+}
+.Easy-to-operate {
+    margin-top: 100px;
+}
+.Fully-secured {
+    margin-top: 100px;
+}
+.benefits a {
+    text-decoration: none;
+    color: #dc3545;
+}
+/* end of Benefits */
+
+/* Happy User */
+.Happy-User {
+    height: auto;
+    padding-top: 150px;
+    background-color: #161824;
+    color: white;
+}
+.HappyUser-Image {
+    width: 420px;
+    height: 380px;
+    border: 2px solid #dc3545;
+    border-radius: 12px 12px 120px;
+    padding: 10px; 
+}
+
+.User {
+    font-size: 30px;
+    font-style: italic;
+    line-height: 1;
+    margin: 50px 0 0 -50px;
+    padding: 0;
+}
+.Name-user {
+    margin-left: -50px;
+    font-size: 16px;
+}
+.Name-user .title {
+    color: #b5b5b5;
+    font-size: 16px;
+    line-height: 0.5;
+}
+.Button-user {
+    margin: 40px 0 0 -50px;
+}
+/* end of Happy User */
+
+/* NewsLetter */
+.News-Letter {
+    background-color: #161824;
+    padding-top: 180px;
+    height: auto;
+}
+.card-news {
+    background-color: #3567D2;
+    color: white;
+    border-radius: 50px;
+    height: 160px;
+}
+.form {
+    padding: 0 200px 0 200px;
+}
+.form .placeholder {
+    border-radius: 30px;
+    background-color: #ffffff;
+}
+.form .subscribe {
+    border-radius: 30px;
+}
+/* end of NewsLetter */
+
+/* Footer */
+.Footer {
+    height: auto;
+    padding-top: 100px;
+    background-color: #161824;
+    color: #ffffff;
+}
+.bg-footer {
+    padding-top: 150px;
+    background-color: #212331;
+    border-radius: 100px 100px 0 0;
+}
+.tittle-footer {
+    font-size: 48px;
+    line-height: 1;
+    padding-bottom: 100px;
+}
+.tittle-footer .Button-user {
+    align-items: center;
+}
+.desc-footer {
+    padding-top: 10px;
+    line-height: 0.5;
+}
+.footer-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+}
+marquee {
+    padding: 20px;
+    background-color: #212331;
+}
+/* end of footer */
